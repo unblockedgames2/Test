@@ -1,6 +1,6 @@
 # Configuration parameters
-$serverAddress = "192.168.1.127"
-$serverPort = 8080
+$serverAddress = "147.185.221.21"
+$serverPort = 44468
 $connectRetryInterval = 3000
 
 # Function to connect to server
